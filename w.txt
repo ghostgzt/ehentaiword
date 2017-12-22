@@ -1,0 +1,212 @@
+1.语言和色彩类
+chinese=中文本
+translated=翻译本
+Italian=义大利文
+english=英文
+portuguese=葡萄牙文
+french=法文
+full color=全彩本
+
+2.外观类
+big breasts=大胸部(不一定要非常大，因为还有个huge breasts)
+huge breasts=超级大胸部
+pantyhose=连裤袜
+stockings=长筒袜
+bloomers=灯笼裤
+glasses=有戴眼镜的
+exhibitionism=暴露狂
+breast expansion=**膨胀
+swimsuit=泳装
+leotard=紧身衣
+lingerie=女用贴身内衣裤
+mind break=失神或精神受创(嘿咻到失去意识或两眼无神，呆若木鸡，宛如死鱼者)
+ahegao=アヘ颜=因高潮而崩坏的脸
+
+3.年龄、职业或身分类
+sister=姐姐或妹妹
+daughter=女儿
+lolicon=萝莉
+shotacon=正太
+mature=成熟的(通常指年纪较大的女性)
+schoolgirl=女学生(非特殊职业和类别的女性大部分都归类於此)
+
+maid=女仆
+nurse=护士
+teacher=教师
+bride=新娘
+princess=公主
+nun=修女
+vampire=吸血鬼
+monster girl=怪物女孩
+dog=狗
+interracial=不同人种间的
+futanari=双性人(天生的)
+shemale=人妖(后天的)
+gender bender=跟异性的举动、打扮一样的人(伪娘或伪男)
+crossdressing=穿异性服装(女装或男装)
+
+4.动作类
+defloration=摘花=上了处女
+bondage=绑缚
+group=群P=复数以上的生命体(人、狗、马、羊等)同时进行性行为
+附注：一般的纯爱漫几乎都不会有此tag
+discipline=调教
+x-ray=内色
+ray=射晶
+paizuri=乳蕉
+blowjob=口蕉
+footjob=足蕉
+anal=肛蕉
+enema=灌肠
+rape=强间
+Scat=吃或喝排泄物
+pregnant=怀孕的
+birth=分娩
+double penetration=双削差入
+lactation=乳汁
+sex toys=性玩具
+urination=排尿
+armpit sex=腋下性爱
+
+5.类型类
+netorare=NTR=寝取
+guro=猎奇
+yuri=女同(GL)
+yaoi=男同(BL)
+femdom=女性支配
+original=原创
+mind control=精神控制
+body swap=身体交换
+tentacles=触手
+bestiality=兽性
+cheating=不忠贞=偷腥、出轨或外遇(和NTR的分类不同)
+monster=怪物
+XXX Girl=依XXX而定
+XXX monster=依XXX而定
+bestiality=(兽性) 
+vore= 丸吞（丸不丸不太确定，不过角色一般会吃掉）
+inflation= 膨胀（丸吞后肚子胀大属于此类）
+unbirth= 从B里钻进去
+skinsuit= 皮类（一个男的穿女人的皮成了女人）
+absorb/possession= 融合、占据（皮类常用标签）
+birth= 出产，出现频率较pregnant少
+eggs= 生蛋
+guro= 让人反胃的（一般是暴力血腥，秀色向常用）
+furry= 毛皮（主角身上长毛带皮，或是动物X动物）
+worm= 虫子（monster Tag下分离）
+amputee= 残肢（四肢切断的人棍）
+BBW/giantess= 巨大的女性（常与unbirth联用）
+
+博丽 灵梦 =hakurei_reimu
+雾雨 魔理沙 =kirisame_marisa
+露米娅 =rumia
+琪露诺 =cirno
+大妖精 =daiyousei
+红 美铃 =hong_meiling
+帕秋莉·诺蕾姬 =patchouli_knowledge
+小恶魔 =koakuma
+十六夜 咲夜 =izayoi_sakuya
+蕾米莉亚·斯卡雷特 =remilia_scarlet
+芙兰朵露·斯卡雷特 =flandre_scarlet
+蕾迪·霍瓦特罗克 =letty_whiterock
+橙 =chen
+爱丽丝·玛格特罗依德 =alice_margatroid
+上海 =shanghai
+蓬莱 =hourai
+莉莉白 =lily_white
+露娜萨·普莉兹姆利巴 =lunasa_prismriver
+莉莉卡·普莉兹姆利巴 =lyrica_prismriver
+梅露兰·普莉兹姆利巴 =merlin_prismriver
+魂魄 妖梦 =konpaku_youmu
+妖梦的幽灵 =myon
+魂魄 妖忌 =konpaku_youki
+西行寺 幽幽子 =ex_keine
+八云 蓝 =yakumo_ran
+八云 紫 =yakumo_yukari
+莉格露·奈特巴格 =wriggle_nightbug
+米斯蒂娅·萝蕾拉 =mystia_lorelei
+上白泽 慧音 =kamishirasawa_keine
+EX上白泽 慧音 =ex_keine
+因幡 帝 =inaba_tewi
+铃仙·优昙华院·因幡 =reisen_udongein_inaba
+八意 永琳 =yagokoro_eirin
+蓬莱山 辉夜 =houraisan_kaguya
+藤原 妹红 =fujiwara_no_mokou
+伊吹 萃香 =ibuki_suika
+
+莉莉黑 =lily_black
+梅蒂欣·梅兰克莉 =medicine_melancholy
+风见 幽香 =kazami_yuuka
+小野冢 小町 =onozuka_komachi
+四季映姬·亚玛撒那度 =shikieiki_yamaxanadu
+秋 静叶 =aki_shizuha
+秋 穣子 =aki_minoriko
+键 山雏 =kagiyama_hina
+河城 荷取 =key
+犬走 椛 =inubashiri_momiji
+射命丸 文 =shameimaru_aya
+东风谷 早苗 =kochiya_sanae
+八坂 神奈子 =yasaka_kanako
+泄矢 诹访子 =moriya_suwako
+比那名居 天子 =hinanawi_tenshi
+永江 衣玖 =nagae_iku
+琪丝美 =kisume
+黑谷 山女 =kurodani_yamame
+水桥 帕露希 =mizuhashi_parsee
+星熊 勇仪 =hoshiguma_yuugi
+古明地 觉 =komeiji_satori 
+火焰猫 燐 =kaenbyou_rin
+火焰猫 燐（猫状态） =kaenbyou_rin_(cat)
+灵乌路 空 =reiuji_utsuho
+古明地 恋 =komeiji_satori
+娜兹琳 =nazrin
+多多良 小伞 =tatara_kogasa
+云居 一轮 =kumoi_ichirin
+云山 =unzan
+村纱 水蜜 =murasa_minamitsu
+寅丸 星 =toramaru_shou
+圣 白莲 =hijiri_byakuren
+封兽 鵺 =houjuu_nue
+森近霖之助 =morichika_rinnosuke
+朱鹭子 =tokiko_(touhou)
+稗田阿求 =hieda_no_akyuu
+露娜 切云德 =luna_child
+斯塔 塞菲尔 =star_sapphire
+桑妮 米尔克 =sunny_milk
+魅魔 =mima
+神绮 =shinki
+4koma=(四格）
+ponytail=（马尾）
+side_ponytail=（双马尾）
+glasses=（眼镜）
+cat_ears=（猫耳）
+breast_grab=（**劫掠）
+yukkuri_shiteitte_ne=（油库里）
+caramelldansen=（某著名伸手扭腰动作） 
+white_panties=(白色的…）
+striped=（条文的…）
+muscle=（肌肉发达的）
+2girls=（两人百合）
+
+skirt_lift=（掀裙）
+fangs=（具有獠牙的…）
+gun=（抢）
+bikini=（比基尼）
+what=（我也不知道是什么）
+abyss_of_parliament=（别告诉我你不认识深渊大人）
+ideolo=（国内某伪黄昏画师）
+auer=（某伪黄昏画师）
+kasuga_sunao=（彩色娃娃画风画师）
+katahira_masashi=（超级有爱长方形可爱画风画师）
+geister=（国内某写实画师）
+hounori=(某特殊画风画师）
+lili_(artist)=（一个捆绑狂）
+ham_(artist)=（画loli的）
+nekoguruma=（某Q图+刚大木画师）
+taka_tony=（一位神）
+kfc=（画风很舒服的画师）
+buriki=（某高画质画师）
+capura.l=（大图画师）
+orenji_zerii=（东方角斗祭作者）
+colonel_aki=（欢乐的红魔馆作者）
+
