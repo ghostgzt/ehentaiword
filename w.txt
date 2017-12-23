@@ -1,7 +1,7 @@
 1.语言和色彩类
 chinese=中文本
 translated=翻译本
-Italian=义大利文
+Italian=意大利文
 english=英文
 portuguese=葡萄牙文
 french=法文
