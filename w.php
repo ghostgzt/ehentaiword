@@ -15,11 +15,11 @@ foreach($w as $key=>$value){
 		if(strstr($value,"=")){
 			$a=explode("=",$value);
 			if(preg_match("/^[A-Za-z0-9]+$/",substr($value,0,1))){
-				$k=$a[1];
-				$v=$a[0];
-			}else{
 				$k=$a[0];
 				$v=$a[1];
+			}else{
+				$k=$a[1];
+				$v=$a[0];
 			}
 			array_push($out[$group],array("key"=>$k,"value"=>$v));
 		}
